@@ -1,2 +1,2 @@
 # Flower_Classification
-CNN-based Flower Classification using TensorFlow and Keras
+Deep learning CNN model for flower image classification using TensorFlow and keras
