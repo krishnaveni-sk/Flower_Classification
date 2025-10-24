@@ -1,2 +1,2 @@
 # Flower_Classification
-"CNN model project + prediction screenshot”
+CNN-based Flower Classification using TensorFlow and Keras
