@@ -35,13 +35,13 @@ Epochs	10
 
 Below is an example output showing flower image prediction result:
 
-📁 Project Structure
+📁 Project Structure                                                                                                                                                       
 Flower-Classification/
 │
-├── categorical_CNN_model_flower_image.ipynb   # Main model code (Colab)
-├── flowers_split/                             # Dataset (Train/Validation folders)
-├── screenshot.png                             # Model output screenshot
-├── README.md                                  # Project documentation
+├── categorical_CNN_model_flower_image.ipynb   # Main model code (Colab)                                                                                                    
+├── flowers_split/                             # Dataset (Train/Validation folders)                                                                                  
+├── screenshot.png                             # Model output screenshot                                                                                                 
+├── README.md                                  # Project documentation                                                                                                 
 └── LICENSE                                    # License file
 
 🚀 Future Improvements
